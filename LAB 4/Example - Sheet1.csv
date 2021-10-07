@@ -1,0 +1,13 @@
+,,,,,,,,,,,
+CountVectorizer,,,,,,LabelEncoding,,,,,
+Data,Features,,,,,Data,Features,,,,
+,Win,Enjoy,Hello,Class,,,,,,,Class
+You Win..Enjoy,1,1,0,1,,You Win..Enjoy,0,0,2,1,1
+Win...Win,2,0,0,1,,Win...Win,0,0,2,2,1
+Hello Students,0,0,1,0,,Hello Students,0,0,0,3,0
+,,,,,,,,,,,
+,,,,,,Pre-padding with size-4,,,,,
+,,,,,,Labels,,,,,
+,,,,,,Enjoy,1,,,,
+,,,,,,Win,2,,,,
+,,,,,,Hello,3,,,,
